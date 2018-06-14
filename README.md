@@ -7,11 +7,11 @@ Fantasy League web application using complete AWS Stack
 
 ## System Design
 
-![](images/7.PNG)
+![](images/a.PNG)
 
 ### Technology stack
 
-![](images/8.PNG)
+![](images/b.PNG)
 
 <table>
 <thead>
@@ -23,7 +23,7 @@ Fantasy League web application using complete AWS Stack
 <tbody>
 	<tr>
 		<td>Front-End</td>
-		<td>HTML5, CSS3,Bootstrap, Javascript ( ES6 )</td>
+		<td>React, Redux, HTML5, CSS3,Bootstrap, Javascript ( ES6 )</td>
 	</tr>
   	<tr>
 		<td>Back-End</td>
@@ -47,6 +47,10 @@ Fantasy League web application using complete AWS Stack
 		<td>Deployment</td>
 		<td>VPC, EC2, Elastic Beanstalk, CloudFormation</td>
 	</tr>
+	<tr>
+		<td>Scalability</td>
+		<td>Load Balancer, Auto Scaling Group</td>
+	</tr>
 	 <tr>
 		<td>Other AWS Services</td>
 		<td>IAM, CloudWatch, SNS</td>
@@ -58,15 +62,19 @@ Fantasy League web application using complete AWS Stack
 
 ##### HomePage
 ![](images/0.PNG)
-##### Login
+##### Hamsters
 ![](images/1.PNG)
-##### User Dashboard
+##### Hamster Details
 ![](images/2.PNG)
-##### Pizza Dashboard
+##### Races
 ![](images/3.PNG)
-##### Completed Pizza
+##### Race Details
 ![](images/4.PNG)
-##### All Pizzas
+##### Leaderboard
 ![](images/5.PNG)
-##### Pizzas by other users
+##### Login
 ![](images/6.PNG)
+##### User Dashboard
+![](images/7.PNG)
+##### Configuration
+![](images/8.PNG)
