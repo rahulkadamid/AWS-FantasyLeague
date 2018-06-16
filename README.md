@@ -78,3 +78,11 @@ Fantasy League web application using complete AWS Stack
 ![](images/7.PNG)
 ##### Configuration
 ![](images/8.PNG)
+
+## Steps for Project Execution :
+
+```
+cd AWS-FantasyLeague
+npm install
+npm start
+```
