@@ -3,7 +3,7 @@ Fantasy League web application using complete AWS Stack
 
 ## Goal
 * The goal is to build a scalable web application which uses complete Stack of AWS services like EC2, S3, DynamoDB, RDS, ElastiCache etc. with load balancing and auto-scaling features. 
-* This web application enables users to create pizzas using various ingredients and view pizzas creted by others.
+* This web application enables users to play Fantasy League.
 
 ## System Design
 
